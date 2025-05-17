@@ -22,28 +22,28 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'image/arijit1.jpg',
+        img : 'arijit1.jpg',
         name : 'Ve Kamleya',
         artist : 'ARIJIT SINGH',
-        music : 'music/aa.mp3'
+        music : 'aa.mp3'
     },
     {
-         img : 'image/arijit2.jpg',
+         img : 'arijit2.jpg',
         name : 'Tu Hai To ',
         artist : 'ARIJIT SINGH',
-        music : 'music/bb.mp3'
+        music : 'bb.mp3'
     },
     {
-         img : 'image/arijit1.jpg',
+         img : 'arijit1.jpg',
         name : 'OO Mahi',
         artist : 'ARIJIT SINGH',
-        music : 'music/cc.mp3'
+        music : 'cc.mp3'
     },
     {
-         img : 'image/arijit2.jpg',
+         img : 'arijit2.jpg',
         name : 'Tu Mera Hoke Bhi',
         artist : 'ARIJIT SINGH',
-        music : 'music/dd.mp3'
+        music : 'dd.mp3'
     }
 ];
 
